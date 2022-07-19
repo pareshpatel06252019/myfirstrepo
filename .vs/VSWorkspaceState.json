@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\adv_1225_prj",
+    "\\adv_1225_prj\\bin",
+    "\\adv_1225_prj\\obj"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\adv_1225_prj\\adv_1225_prj.sqlproj",
   "PreviewInSolutionExplorer": false
 }

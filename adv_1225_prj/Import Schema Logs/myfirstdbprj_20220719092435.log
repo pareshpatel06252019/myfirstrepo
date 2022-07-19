@@ -1,0 +1,87 @@
+7/19/2022 2:54:35 PM	This log contains information about the import schema operation into project 'myfirstdbprj' on computer 'ISGKK453' by user 'KalpeshKhatri'.
+7/19/2022 2:54:36 PM	Import of database schema has started.
+7/19/2022 2:54:52 PM	Gathering database credentials
+7/19/2022 2:54:52 PM	Gathering database options
+7/19/2022 2:54:52 PM	Gathering generic database scoped configuration option
+7/19/2022 2:54:52 PM	Gathering users
+7/19/2022 2:54:52 PM	Gathering roles
+7/19/2022 2:54:52 PM	Gathering application roles
+7/19/2022 2:54:52 PM	Gathering role memberships
+7/19/2022 2:54:52 PM	Gathering filegroups
+7/19/2022 2:54:52 PM	Gathering full-text catalogs
+7/19/2022 2:54:52 PM	Gathering assemblies
+7/19/2022 2:54:52 PM	Gathering certificates
+7/19/2022 2:54:52 PM	Gathering asymmetric keys
+7/19/2022 2:54:52 PM	Gathering symmetric keys
+7/19/2022 2:54:52 PM	Gathering encrypted symmetric keys
+7/19/2022 2:54:52 PM	Gathering schemas
+7/19/2022 2:54:52 PM	Gathering XML schema collections
+7/19/2022 2:55:01 PM	Gathering user-defined data types
+7/19/2022 2:55:01 PM	Gathering user-defined types
+7/19/2022 2:55:01 PM	Gathering table types
+7/19/2022 2:55:01 PM	Gathering unique keys for table types
+7/19/2022 2:55:01 PM	Gathering primary keys for table types
+7/19/2022 2:55:01 PM	Gathering indexes for table types
+7/19/2022 2:55:01 PM	Gathering check constraints for table types
+7/19/2022 2:55:01 PM	Gathering default constraints for table types
+7/19/2022 2:55:01 PM	Gathering partition functions
+7/19/2022 2:55:01 PM	Gathering partition schemes
+7/19/2022 2:55:01 PM	Gathering functions
+7/19/2022 2:55:26 PM	Gathering encrypted functions
+7/19/2022 2:55:26 PM	Gathering aggregates
+7/19/2022 2:55:26 PM	Gathering procedures
+7/19/2022 2:56:02 PM	Gathering encrypted procedures
+7/19/2022 2:56:02 PM	Gathering tables
+7/19/2022 2:56:55 PM	Gathering primary keys
+7/19/2022 2:56:55 PM	Gathering unique constraints
+7/19/2022 2:56:55 PM	Gathering foreign keys
+7/19/2022 2:56:55 PM	Gathering default constraints
+7/19/2022 2:56:55 PM	Gathering check constraints
+7/19/2022 2:56:55 PM	Gathering views
+7/19/2022 2:57:20 PM	Gathering encrypted views
+7/19/2022 2:57:20 PM	Gathering indexes
+7/19/2022 2:57:20 PM	Gathering statistics
+7/19/2022 2:57:20 PM	Gathering full-text index stoplists
+7/19/2022 2:57:20 PM	Gathering search property lists
+7/19/2022 2:57:20 PM	Gathering search properties
+7/19/2022 2:57:20 PM	Gathering full-text indexes
+7/19/2022 2:57:20 PM	Gathering column store indexes
+7/19/2022 2:57:20 PM	Gathering spatial indexes
+7/19/2022 2:57:20 PM	Gathering XML indexes
+7/19/2022 2:57:20 PM	Gathering Selective XML indexes
+7/19/2022 2:57:20 PM	Gathering encrypted triggers
+7/19/2022 2:57:20 PM	Gathering triggers
+7/19/2022 2:57:20 PM	Gathering encrypted and clr ddl triggers
+7/19/2022 2:57:20 PM	Gathering ddl triggers
+7/19/2022 2:57:20 PM	Creating edge constraints
+7/19/2022 2:57:20 PM	Gathering synonyms
+7/19/2022 2:58:16 PM	Gathering defaults
+7/19/2022 2:58:16 PM	Gathering data constraint uddt bindings
+7/19/2022 2:58:16 PM	Gathering rules
+7/19/2022 2:58:16 PM	Gathering data constraint uddt bindings
+7/19/2022 2:58:16 PM	Gathering message types
+7/19/2022 2:58:16 PM	Gathering queues
+7/19/2022 2:58:16 PM	Gathering contracts
+7/19/2022 2:58:16 PM	Gathering services
+7/19/2022 2:58:16 PM	Gathering event notifications
+7/19/2022 2:58:16 PM	Gathering remote service bindings
+7/19/2022 2:58:16 PM	Gathering broker priorities
+7/19/2022 2:58:16 PM	Gathering signatures
+7/19/2022 2:58:16 PM	Gathering data compression options
+7/19/2022 2:58:16 PM	Gathering sequence types
+7/19/2022 2:58:16 PM	Gathering security policies
+7/19/2022 2:58:16 PM	Gather column encryption keys
+7/19/2022 2:58:16 PM	Gathering column master keys
+7/19/2022 2:58:16 PM	Gathering external data sources
+7/19/2022 2:58:16 PM	Gathering external file formats
+7/19/2022 2:58:16 PM	Gathering external tables
+7/19/2022 2:58:16 PM	Gathering extended properties
+7/19/2022 2:58:18 PM	Gathering assemblies
+7/19/2022 2:58:21 PM	Gathering credentials
+7/19/2022 2:58:21 PM	Gathering logins
+7/19/2022 2:58:21 PM	Gathering server audits
+7/19/2022 2:58:23 PM	Scanning project for duplicate elements
+7/19/2022 2:58:24 PM	Finished duplicate element processing
+7/19/2022 2:58:28 PM	Finished importing database.
+7/19/2022 2:58:28 PM	A summary of the import was saved to the following location: C:\Users\KalpeshKhatri\source\repos\github\myfirstdbprj\myfirstdbprj\myfirstdbprj\Import Schema Logs\myfirstdbprj_20220719092435.log
+7/19/2022 2:58:28 PM	Click Finish to continue...
